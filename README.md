@@ -24,10 +24,10 @@ AI APIs: Gnani AI Vachana APIs (Prisma & Timbre)
 
 Environment Management: Python dotenv
 
-📁 Project Directory Structure
+## 📁 Project Directory Structure
 
+```text
 rural-health-voice/
-│
 ├── .venv/
 ├── backend/
 │   ├── __pycache__/
@@ -36,6 +36,7 @@ rural-health-voice/
 │   └── app.py           # Streamlit user interface
 ├── .env                 # API keys (Keep private - do not commit)
 └── README.md            # Project documentation
+```
 
 
 ⚙️ Installation & Setup Guide
