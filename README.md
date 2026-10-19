@@ -57,8 +57,7 @@ pip install fastapi uvicorn streamlit audio-recorder-streamlit requests python-d
 
 Create a file named .env in the root directory of your project and add your Gnani AI API key:
 
-GNANI_API_KEY=vach_1ytE2CY5X2ESDxfuDLUzNl8EeHy5BHosIgFXDXhFuAixVpyVYRhQNdO6OwDLUwbSuMnOS7VgxSBPSi4XUQhKAzTzRDrj3PCH_77908bf042c8d65e5fe5da582ffb3ac8
-
+GNANI_API_KEY=your_actual_gnani_api_key_here
 
 🚀 Running the Application
 
